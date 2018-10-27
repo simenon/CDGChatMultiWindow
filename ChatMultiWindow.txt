@@ -1,0 +1,8 @@
+## Title: ChatMultiWindow
+## Author: Jason Blood
+## Version: 1.2
+## APIVersion: 100003
+## SavedVariables: ChatMultiWindow_SavedVariables
+
+ChatMultiWindow.lua
+
